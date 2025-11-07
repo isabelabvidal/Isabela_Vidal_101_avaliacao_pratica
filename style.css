@@ -1,0 +1,14 @@
+body {
+    background-color: #f5f5f5;
+    font-family: 'Segoe UI', sans-serif;
+    padding: 30px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+img {
+    width: 300px;
+    margin-top: 20px;
+}
